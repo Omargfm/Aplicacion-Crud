@@ -10,3 +10,7 @@ Tiene pequeños errores que estaré corrigiendo a medida que voy mejorando mis h
 * [CSS] "Cascading Style Sheets" (Hojas de estilo en cascada), es un lenguaje de diseño utilizado para describir la presentación visual de un documento escrito en HTML o XML (incluyendo varios dialectos de XML como SVG o XHTML). CSS describe cómo los elementos deberían ser mostrados en pantalla, en papel, o en otros medios.
 
 * [JS] JavaScript es un lenguaje de programación de alto nivel, interpretado y orientado a objetos, utilizado principalmente en el desarrollo web, pensado para agregar potencial de interacción y dinamismo a las páginas web.
+
+## Linkedin:
+
+* Omar Fuentes: https://www.linkedin.com/in/omar-fuentes-35a061259/
